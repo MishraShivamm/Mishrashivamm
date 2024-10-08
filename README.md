@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Frontend**
 
-- 💬 Ask me about **React , JavaScript , CSS , SQL , HTML and DSA**
+- 💬 Ask me about **React , JavaScript , CSS , SQL , HTML ,PHP , Vue.js ,OOP and DSA**
 
 - 📫 How to reach me **mishrashiv1708@gmail.com**
 
